@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemorizandoKanjis</string>
+    <string name="salir">salir</string>
+    <string name="jugar">jugar</string>
+    <string name="reiniciar">reiniciar</string>
+    <string name="puntuacion">puntuación: </string>
+</resources>
